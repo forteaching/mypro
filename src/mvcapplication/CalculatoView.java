@@ -17,7 +17,7 @@ public class CalculatoView  extends JFrame
    private JTextField fn = new JTextField(5);
    private JLabel sign = new JLabel("+");
    private JTextField sn = new JTextField(5);
-   private JButton calc = new JButton("Claculation");
+   private JButton calc = new JButton("Button Claculation");
    private JTextField sol = new JTextField(5);
 public CalculatoView()
         {
